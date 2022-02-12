@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ravichaudhary111.github.io/csb-wmt8d/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ravichaudhary111.github.io/csb-wmt8d/static/js/main.b2b907c1.chunk.js",
+    "main.js.map": "https://ravichaudhary111.github.io/csb-wmt8d/static/js/main.b2b907c1.chunk.js.map",
+    "runtime-main.js": "https://ravichaudhary111.github.io/csb-wmt8d/static/js/runtime-main.0f4df921.js",
+    "runtime-main.js.map": "https://ravichaudhary111.github.io/csb-wmt8d/static/js/runtime-main.0f4df921.js.map",
+    "static/js/2.4fca0c31.chunk.js": "https://ravichaudhary111.github.io/csb-wmt8d/static/js/2.4fca0c31.chunk.js",
+    "static/js/2.4fca0c31.chunk.js.map": "https://ravichaudhary111.github.io/csb-wmt8d/static/js/2.4fca0c31.chunk.js.map",
+    "index.html": "https://ravichaudhary111.github.io/csb-wmt8d/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ravichaudhary111.github.io/csb-wmt8d/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.4fca0c31.chunk.js.LICENSE.txt": "https://ravichaudhary111.github.io/csb-wmt8d/static/js/2.4fca0c31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f4df921.js",
+    "static/js/2.4fca0c31.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b2b907c1.chunk.js"
+  ]
+}
